@@ -1,3 +1,3 @@
 # newtestgit
-branch04 skorocle test
+branch04 z main toto je nove
 line03 branch02
